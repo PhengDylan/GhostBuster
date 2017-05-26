@@ -8,3 +8,11 @@ E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\WindowsFormsApplication2\obj\
 E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\WindowsFormsApplication2\obj\Debug\GhostBuster.csproj.GenerateResource.Cache
 E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mainFrame.resources
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\WindowsFormsApplication2\obj\Debug\GhostBuster.csproj.GenerateResource.Cache
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb

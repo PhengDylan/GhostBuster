@@ -14,10 +14,15 @@ namespace WindowsFormsApplication2
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
+           /* Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new mainFrame());
-            Partie p = new Partie(1,2,true);
+            Application.Run(new mainFrame());*/
+           // Partie p = new Partie(1,2,true);
+            Plateau plateau = new Plateau(10, 7);
+            plateau.GenerateGrille();
+            plateau.FillMines(15);
+            Console.WriteLine(plateau.ToString());
         }
+
     }
 }

@@ -8,12 +8,14 @@
 
         public bool EnCours { get; set; }
 
+        
+
         public Partie(int nbMinesRestantes, int nbMinesInitial, bool enCours)
         {
             this.NbMinesRestantes = nbMinesRestantes;
             this.NbMinesInitial = nbMinesInitial;
             this.EnCours = enCours;
         }
-
+      
     }
 }

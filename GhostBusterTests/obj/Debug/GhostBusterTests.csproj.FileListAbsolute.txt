@@ -15,3 +15,20 @@ E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\bin\Debug\fr
 E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\obj\Debug\GhostBusterTests.csprojResolveAssemblyReference.cache
 E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\obj\Debug\GhostBusterTests.dll
 E:\Cours\Recettes_et_tests\Repo_GitHub\GhostBuster\GhostBusterTests\obj\Debug\GhostBusterTests.pdb
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\GhostBusterTests\bin\Debug\GhostBusterTests.dll
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\GhostBusterTests\bin\Debug\GhostBusterTests.pdb
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\GhostBusterTests\bin\Debug\ApprovalTests.dll
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\GhostBusterTests\bin\Debug\ApprovalUtilities.dll
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\GhostBusterTests\bin\Debug\ApprovalUtilities.Net45.dll
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\GhostBusterTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\GhostBusterTests\bin\Debug\nunit.framework.dll
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\GhostBusterTests\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\GhostBusterTests\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\GhostBusterTests\bin\Debug\ApprovalTests.xml
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\GhostBusterTests\bin\Debug\ApprovalUtilities.xml
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\GhostBusterTests\bin\Debug\ApprovalUtilities.Net45.xml
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\GhostBusterTests\bin\Debug\nunit.framework.xml
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\GhostBusterTests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\GhostBusterTests\obj\Debug\GhostBusterTests.csprojResolveAssemblyReference.cache
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\GhostBusterTests\obj\Debug\GhostBusterTests.dll
+C:\Users\Dylan Pheng\Documents\GitHub\GhostBuster\GhostBuster\GhostBusterTests\obj\Debug\GhostBusterTests.pdb

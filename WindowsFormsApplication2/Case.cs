@@ -7,8 +7,20 @@
 
         public Case(bool decouvert, int valeurCase)
         {
-            this._decouvert = decouvert;
-            this._valeurCase = valeurCase;
+            this.Decouvert = decouvert;
+            this.ValeurCase = valeurCase;
+        }
+
+        public bool Decouvert
+        {
+            get { return _decouvert; }
+            set { _decouvert = value; }
+        }
+
+        public int ValeurCase
+        {
+            get { return _valeurCase; }
+            set { _valeurCase = value; }
         }
     }
 }
